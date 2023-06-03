@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\ishan\Desktop\background-app\background-executor.bat", 0 , True
